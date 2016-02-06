@@ -1,0 +1,17 @@
+{
+  "name": "projector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "reacquire": "^0.1.4",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "dependencies": {}
+}
